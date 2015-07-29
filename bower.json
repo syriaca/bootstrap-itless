@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-itless",
+  "version": "0.1.0",
+  "homepage": "https://github.com/AJStacy/bootstrap-itless",
+  "authors": [
+    "Andrew Stacy <ajstacy@gmail.com>"
+  ],
+  "description": "A port of Bootstrap to the ITCSS design pattern.",
+  "main": "bootstrap-it.less",
+  "keywords": [
+    "bootstrap",
+    "less",
+    "itcss"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
