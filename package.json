@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-itless",
-  "version": "0.1",
+  "version": "0.1.1",
   "description": "> ITCSS (Inverted Triangle CSS) port of Bootstrap LESS",
   "main": "./bootstrap-it.less",
   "repository": {
